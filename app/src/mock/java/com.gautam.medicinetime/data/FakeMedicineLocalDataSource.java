@@ -1,11 +1,11 @@
-package com.gautam.medicinetime.data;
+package com.sunag.medicinetime.data;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.gautam.medicinetime.data.source.History;
-import com.gautam.medicinetime.data.source.MedicineAlarm;
-import com.gautam.medicinetime.data.source.MedicineDataSource;
-import com.gautam.medicinetime.data.source.Pills;
+import com.sunag.medicinetime.data.source.History;
+import com.sunag.medicinetime.data.source.MedicineAlarm;
+import com.sunag.medicinetime.data.source.MedicineDataSource;
+import com.sunag.medicinetime.data.source.Pills;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

@@ -1,10 +1,10 @@
-package com.gautam.medicinetime;
+package com.sunag.medicinetime;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
 
-import com.gautam.medicinetime.data.source.MedicineRepository;
-import com.gautam.medicinetime.data.source.local.MedicinesLocalDataSource;
+import com.sunag.medicinetime.data.source.MedicineRepository;
+import com.sunag.medicinetime.data.source.local.MedicinesLocalDataSource;
 
 /**
  * Created by gautam on 13/07/17.
